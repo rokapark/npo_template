@@ -6,7 +6,7 @@ Poista sitten *kaikki* suluilla merkityt kohdat.)
 
 ## Tietoja 
 
-Tekijä: (Etunimi Sukunimi)
+Tekijä: (Ronja Törmälehto)
 
 Työ git-varaston osoite: <https://github.com/kabepark/npo_template> (*Korvaa* tämä osoite oman git-varastosi osoitteella)
 
