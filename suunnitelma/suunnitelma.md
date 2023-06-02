@@ -10,7 +10,7 @@ Tekijä: (Ronja Törmälehto)
 
 Työ git-varaston osoite: <https://github.com/kabepark/npo_template> (*Korvaa* tämä osoite oman git-varastosi osoitteella)
 
-Pelin nimi: (Nimi)
+Pelin nimi: (heheh)
 
 Pelialusta: Windows/macOS/Linux (Valitse alusta)
 
